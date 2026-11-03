@@ -1,8 +1,11 @@
 # taintpro98
 ### Hi there 👋, I am Bruno
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taintpro98&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taintpro98&hide=html&)](https://github.com/anuraghazra/github-readme-stats)
+![Profile details](./profile-summary-card-output/radical/0-profile-details.svg)
+
+![GitHub stats](./profile-summary-card-output/radical/3-stats.svg)
+![Top languages](./profile-summary-card-output/radical/1-repos-per-language.svg)
+![Most commit language](./profile-summary-card-output/radical/2-most-commit-language.svg)
 
 <!--
 **taintpro98/taintpro98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
